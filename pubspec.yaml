@@ -27,4 +27,5 @@ dev_dependencies:
 topics:
   - otp
   - algeria
-  - phone validation
+  - phone
+  - validation
